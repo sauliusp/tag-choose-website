@@ -1,5 +1,5 @@
 # Theme and plugin settings
-theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic
 
 # Site settings
 title: TagChoose - AI Bookmark Manager
