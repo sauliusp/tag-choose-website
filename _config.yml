@@ -1,0 +1,17 @@
+ Theme and plugin settings
+theme: alembic-jekyll-theme
+
+# Site settings
+title: TagChoose - AI Bookmark Manager
+description: TagChoose - AI Bookmark Manager
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-default-layout
+  - jekyll-feed
+  - jemoji
