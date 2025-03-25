@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-alembic"
+gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
   gem "jekyll-sitemap"
