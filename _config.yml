@@ -16,3 +16,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-feed
   - jemoji
+
+
+  # 7. Site settings
+logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
