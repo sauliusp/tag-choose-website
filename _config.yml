@@ -1,9 +1,6 @@
 # Theme and plugin settings
 remote_theme: daviddarnes/alembic
 
-# Site settings
-title: TagChoose - AI Bookmark Manager
-description: TagChoose - AI Bookmark Manager
 
 # Plugins
 plugins:
@@ -19,4 +16,8 @@ plugins:
 
 
   # 7. Site settings
+
+title: TagChoose - AI Bookmark Manager
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: TagChoose - AI Bookmark Manager
+google_analytics: "G-2E7ZVPF2LY"
