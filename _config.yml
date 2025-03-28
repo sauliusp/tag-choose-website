@@ -21,3 +21,7 @@ title: TagChoose - AI Bookmark Manager
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: TagChoose - AI Bookmark Manager
 google_analytics: "G-2E7ZVPF2LY"
+
+fonts:
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Meera+Inimai&display=swap

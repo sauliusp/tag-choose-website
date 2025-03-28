@@ -1,0 +1,19 @@
+---
+title: false
+styles: true
+---
+
+$bodytype: (
+  font-family: "Meera Inimai, sans-serif",
+  regular: 400,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Lato", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+@import "alembic";
