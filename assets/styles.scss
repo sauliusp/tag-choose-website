@@ -17,3 +17,14 @@ $headingtype: (
 ) !default;
 
 @import "alembic";
+
+.header .feature {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #000000;
+  display: none;
+  
+  @include breakpoint(break-1) {
+    display: block;
+  }
+}

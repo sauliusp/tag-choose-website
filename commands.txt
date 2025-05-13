@@ -1,0 +1,3 @@
+bundle exec jekyll serve --livereload
+bundle show cayman
+open $(bundle show cayman)
