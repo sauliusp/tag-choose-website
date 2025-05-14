@@ -16,7 +16,13 @@ $headingtype: (
   cap-height: 0.75
 ) !default;
 
+// Text colours. British English.
+$linkColour: #000000 !default;
+$hoverColour: #ffa300 !default;
+$captionColour: #faa91a !default;
+
 @import "alembic";
+
 
 .header .feature {
   background-size: contain;

@@ -15,10 +15,15 @@ plugins:
   - jemoji
 
 
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+
+
   # 7. Site settings
 
 title: TagChoose - AI Bookmark Manager
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/images/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: TagChoose - AI Bookmark Manager
 google_analytics: "G-2E7ZVPF2LY"
 
