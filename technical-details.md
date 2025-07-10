@@ -2,6 +2,10 @@
 title: Technical Details
 ---
 
+## Updates
+
+- 2025-07-10: ❌ after the Chrome update you might see the following error in the extension popup: "AI features are not supported in your browser. However, you can still tag this bookmark manually using autocomplete.". I am working on it - once I have a fix, I will update the extension.
+
 ## One-Time Chrome Setup
 
 To use Gemini Nano in your browser, you’ll need to adjust three experimental Chrome flags. These allow Chrome’s Prompt API and on-device models to function:
