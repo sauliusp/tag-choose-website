@@ -31,8 +31,8 @@ google_analytics: "G-2E7ZVPF2LY"
 navigation_header:
 - title: "About #TagChoose"
   url: /
-- title: Technical Details
-  url: /technical-details
+- title: "Technical Details"
+  url: /technical-details.html
 
 fonts:
   font_urls:

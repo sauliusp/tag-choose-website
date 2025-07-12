@@ -1,6 +1,5 @@
-
 ---
-title: Technical Details
+title: "Technical Details"
 ---
 
 ## Recent Updates
