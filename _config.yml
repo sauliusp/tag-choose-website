@@ -32,7 +32,7 @@ navigation_header:
 - title: "About #TagChoose"
   url: /
 - title: Technical Details
-  url: /technical-details/
+  url: /technical-details
 
 fonts:
   font_urls:
