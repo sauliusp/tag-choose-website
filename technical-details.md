@@ -4,6 +4,19 @@ title: "Technical Details"
 
 ## Recent Updates
 
+### 2025-07-14: v1.0.0 Successfully Published to Chrome Web Store! 🎉
+✅ **Published**: TagChoose v1.0.0 is now live on the Chrome Web Store
+- **Status**: Successfully approved and published on 2025-07-14
+- **Version**: v1.0.0 with complete Chrome compatibility fixes
+- **Availability**: Now available for download and installation
+- **Features**: Full AI bookmark management with Chrome's native LanguageModel API
+
+**Update Information**: 
+- **Auto-update**: Existing users should receive the update automatically within 24-48 hours
+- **Manual update**: If you still see the old version, you can manually update by visiting the Chrome Web Store and reinstalling the extension
+
+**Important**: TagChoose v1.0.0 requires Chrome 138 or higher. The AI features will not work on older Chrome versions.
+
 ### 2025-07-12: v1.0.0 Release (🔄 Awaiting Chrome Web Store Approval)
 ✅ **Fixed**: Chrome compatibility issues resolved with complete AI system rebuild
 - Completely migrated to Chrome's native AI LanguageModel API
